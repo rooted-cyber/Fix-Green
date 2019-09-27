@@ -9,7 +9,7 @@ bash setup.sh</p>
 # usages
 <pre
 
-Type Anywhere</pre>
+Type Anywhere
 <p>fixed</p>
 
 
