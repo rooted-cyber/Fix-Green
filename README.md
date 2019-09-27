@@ -1,9 +1,9 @@
 # Fix-Green
 # installation of Termux
 <br />
-git clone https://github.com/rooted-cyber/Fix-Green
-cd Fix-Green
-bash setup.sh
+<p>git clone https://github.com/rooted-cyber/Fix-Green</p>
+<p>cd Fix-Green</p>
+<p>bash setup.sh</p>
 
 
 
